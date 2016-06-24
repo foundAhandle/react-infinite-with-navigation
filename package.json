@@ -1,6 +1,6 @@
 {
   "name": "react-infinite-with-navigation",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "infinite scroll with navigation links using react-bootstrap",
   "main": "index.html",
   "scripts": {

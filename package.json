@@ -1,0 +1,23 @@
+{
+  "name": "react-infinite-with-navigation",
+  "version": "1.0.1",
+  "description": "infinite scroll with navigation links using react-bootstrap",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/foundAhandle/react-infinite-with-navigation"
+  },
+  "keywords": [
+    "react",
+    "bootstrap",
+    "react-bootstrap",
+    "infinite",
+    "scroll",
+    "navigation"
+  ],
+  "author": "foundahandle",
+  "license": "ISC"
+}
